@@ -1,1 +1,2 @@
-﻿
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLCourseApp.vcxproj -> C:\Users\An Dong PC\Documents\opengl\Debug\OpenGLCourseApp.exe
