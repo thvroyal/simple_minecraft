@@ -1,2 +1,9 @@
-﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+﻿  TargetCube.cpp
+C:\Users\An Dong PC\Documents\opengl\OpenGLCourseApp\TargetCube.cpp(81,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\An Dong PC\Documents\opengl\OpenGLCourseApp\TargetCube.cpp(86,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\An Dong PC\Documents\opengl\OpenGLCourseApp\TargetCube.cpp(91,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\An Dong PC\Documents\opengl\OpenGLCourseApp\TargetCube.cpp(96,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\An Dong PC\Documents\opengl\OpenGLCourseApp\TargetCube.cpp(101,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\An Dong PC\Documents\opengl\OpenGLCourseApp\TargetCube.cpp(106,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\An Dong PC\Documents\opengl\OpenGLCourseApp\TargetCube.cpp(133,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
   OpenGLCourseApp.vcxproj -> C:\Users\An Dong PC\Documents\opengl\Debug\OpenGLCourseApp.exe

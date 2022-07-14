@@ -6,6 +6,7 @@ Mesh::Mesh()
 	VBO = 0;
 	IBO = 0;
 	indexCount = 0;
+	position = glm::vec3(0.0f);
 }
 
 void Mesh::CreateMesh(GLfloat *vertices, unsigned int *indices, unsigned int numOfVertices, unsigned int numOfIndices)
@@ -68,6 +69,15 @@ void Mesh::ClearMesh()
 	indexCount = 0;
 }
 
+void Mesh::SetPosition(glm::vec3 pos)
+{
+	position = pos;
+}
+
+glm::vec3 Mesh::GetPosition()
+{
+	return position;
+}
 
 Mesh::~Mesh()
 {
